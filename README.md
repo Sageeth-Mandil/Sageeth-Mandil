@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sageeth Mandil</h1>
+<p align="center" ><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20👋,%20I'm%20Sageeth%20Mandil&section=header"/></p>
 <h3 align="center">A passionate frontend developer and backend developer from Sri Lanka</h3>
 
 <br>
@@ -21,7 +21,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sageeth-mandil&label=Profile%20views&color=0e75b6&style=flat" alt="sageeth-mandil" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sageeth-mandil" alt="sageeth-mandil" /></a> </p>
-- ⚡ Fun fact **Dedicated Learner**
+- ⚡ Fun fact * Dedicated Learner *
 
 <br>
 <br>
@@ -85,8 +85,9 @@
 <br>
 <hr>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sageeth-mandil&show_icons=true&locale=en" alt="sageeth-mandil" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sageeth-mandil&" alt="sageeth-mandil" /></p>
 
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
