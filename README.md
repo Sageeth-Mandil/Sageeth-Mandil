@@ -17,15 +17,14 @@
 
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sageeth-mandil&label=Profile%20views&color=0e75b6&style=flat" alt="sageeth-mandil" /> </p>
-<center>- ⚡ Fun fact * Dedicated Learner *</center>
+<br>
 
-<br>
-<br>
-<hr>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<p align="left"> <a href="https://twitter.com/chirathy7851" target="blank"><img src="https://img.shields.io/twitter/follow/chirathy7851?logo=twitter&style=for-the-badge" alt="chirathy7851" /></a> </p>
+
 <a href="https://codepen.io/sageeth-mandil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sageeth-mandil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sageeth mandil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sageeth mandil" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sageeth-mandil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sageeth-mandil" height="30" width="40" /></a>
@@ -71,28 +70,9 @@
 </p>
 
 <br>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sageeth-mandil&show_icons=true&locale=en&layout=compact" alt="sageeth-mandil" /> </p>-->
-### <p> Most Used Languages: </p>
-<ul>
-  <li>Java</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-</ul>
-
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-
-### <p> FrameWorks: </p>
-<ul>
-  <li>SpringBoot</li>
-  <li>Angular</li>
-  <li>React</li>
-  <li>Flask</li>
-</ul>
-
 <br>
-<hr>
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sageeth-mandil&show_icons=true&locale=en" alt="sageeth-mandil" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sageeth-mandil&" alt="sageeth-mandil" /></p>
@@ -106,11 +86,11 @@
 <br/>
 <p align="center"><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sageeth-mandil&layout=compact&theme=algolia" alt="sageeth-mandil" /></a></p>
 
-<!-- VIEW -->
-<br>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
-<br>
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)-->
-<br>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<br/>
+<br/>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+
+<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=40&center=true&vCenter=true&width=600&height=50&lines=Thanks+For+Visiting+My+Page;"></a></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sageeth-mandil&label=Profile%20views&color=0e75b6&style=flat" alt="sageeth-mandil" /> </p>
