@@ -17,11 +17,8 @@
 
 <br>
 <br>
-<br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sageeth-mandil&label=Profile%20views&color=0e75b6&style=flat" alt="sageeth-mandil" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sageeth-mandil" alt="sageeth-mandil" /></a> </p>
-- ⚡ Fun fact * Dedicated Learner *
+<center>- ⚡ Fun fact * Dedicated Learner *</center>
 
 <br>
 <br>
@@ -96,11 +93,18 @@
 
 <br>
 <hr>
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sageeth-mandil&show_icons=true&locale=en" alt="sageeth-mandil" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sageeth-mandil&" alt="sageeth-mandil" /></p>
+-->
 
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sageeth-mandil&theme=algolia" alt="sageeth-mandil" /></p>
+<br/>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sageeth mandil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sageeth-mandil&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/><br/> &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sageeth-mandil&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sageeth-mandil" height="192px"/>
+<br/>
+<p align="center"><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sageeth-mandil&layout=compact&theme=algolia" alt="sageeth-mandil" /></a></p>
 
 <!-- VIEW -->
 <br>
