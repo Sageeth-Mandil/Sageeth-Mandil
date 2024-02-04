@@ -119,9 +119,22 @@
 <br/>
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sageeth mandil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sageeth-mandil&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/><br/> &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sageeth-mandil&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sageeth-mandil" height="192px"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sageeth-mandil&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sageeth-mandil" height="192px"/> -->
 <br/>
 <p align="center"><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sageeth-mandil&layout=compact&theme=algolia" alt="sageeth-mandil" /></a></p>
+<br/>
+<br/>
+
+## Top Open Source -
+[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=sageeth-mandil&repo=library-management-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sageeth-mandil/library-management-system)
+[![Python Projects](https://github-readme-stats.vercel.app/api/pin/?username=sageth-mandil&repo=python-beginner-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sageeth-mandil/python-beginner-projects)
+[![Material UI](https://github-readme-stats.vercel.app/api/pin/?username=sageeth-mandil&repo=material-ui&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sageeth-mandil/material-ui)
+[![SageethMandil Readme](https://github-readme-stats.vercel.app/api/pin/?username=sageeth-mandil&repo=sageeth-mandil&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sageeth-Mandil/sageeth-mandil)
+
+
+<p align="left">
+  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
 <br/>
 <br/>
@@ -131,11 +144,44 @@
 
 <p align="center"> <a href="https://twitter.com/sageeth-mandil" target="blank"><img src="https://img.shields.io/twitter/follow/sageeth-mandil?logo=twitter&style=for-the-badge" alt="sageeth-mandil" /></a></p>
 
-<p align='center'>
+<!--<p align='center'>
   <a href="https://github.com/sponsors/sageeth-mandil"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/></a>&nbsp;&nbsp;
   <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sageeth-mandil/Badges4-README.md-Profile?style=for-the-badge"></a>&nbsp;&nbsp;
   <a><img src="https://komarev.com/ghpvc/?username=sageeth-mandil&label=Profile%20views&color=0e75b6&style=flat" alt="sageeth-mandil"/></a>
+</p>-->
+
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
+
+
+<p align="center">
+<!--   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a> -->
+<!--   <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a>  -->
+  <a href="https://github.com/sageeth-mandil?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/sageeth-mandil?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/sageeth-mandil?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sageeth-mandil?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
+
 
 <br/>
 <br/>
