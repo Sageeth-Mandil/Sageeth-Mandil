@@ -1,4 +1,10 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
 <p align="center" ><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20👋,%20I'm%20Sageeth%20Mandil&section=header"/></p>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <h3 align="center">A passionate frontend developer and backend developer from Sri Lanka</h3>
 
 <br>
@@ -13,7 +19,11 @@
     tect-align:center" 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
     alt="coding-gif"/>
-</p>
+</p><br/>
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+</div>
 
 <br>
 <br>
@@ -214,3 +224,7 @@
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=40&center=true&vCenter=true&width=600&height=50&lines=Thanks+For+Visiting+My+Page;"></a></p>
 
 <br/>
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
