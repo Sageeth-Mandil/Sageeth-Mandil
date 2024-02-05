@@ -21,17 +21,22 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+<!--      Contact Me :
 <a href="https://codepen.io/sageeth-mandil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sageeth-mandil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sageeth mandil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sageeth mandil" height="30" width="40" /></a>
 <a href="https://codesandbox.com/sageeth-mandil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sageeth-mandil" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/sageethmandil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sageethmandil" height="30" width="40" /></a>
-</p>
-
-<br>
+<a href="https://www.topcoder.com/members/sageethmandil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sageethmandil" height="30" width="40" /></a>  
+</p> -->
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
+  <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="TypeScript" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <br/>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -48,15 +53,15 @@
 <p align="left">
   
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+<!-- ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
+<!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
+<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+  ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) -->
   ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+<!-- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) -->
+<!-- ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) -->
 </p><br/>
 
 
@@ -70,69 +75,58 @@
 </p>
 
 <br/>
-<hr/>
+
+# 
+
 <p align="center"
-  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="git" width="40" height="40"/></a> 
   &emsp;
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
   &emsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
+  <a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="mui" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://jquery.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="jquery" width="40" height="40"/></a> 
   &emsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
   &emsp;
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a> 
   &emsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  &emsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-  &emsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
   &emsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
   &emsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
-  &emsp;
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> 
   &emsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
-  &emsp;
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
-
 </p>
+
+
 <hr/>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
-<br>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sageeth-mandil&show_icons=true&locale=en" alt="sageeth-mandil" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sageeth-mandil&" alt="sageeth-mandil" /></p>
--->
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sageeth-mandil&theme=algolia" alt="sageeth-mandil" /></p>
 <br/>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sageeth mandil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sageeth-mandil&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<p align="center"><a href="https://github.com/sageeth-mandil/github-readme-stats"><img alt="sageeth mandil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sageeth-mandil&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/><br/> &nbsp;
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sageeth-mandil&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sageeth-mandil" height="192px"/> -->
+<!--  Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sageeth-mandil&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sageeth-mandil" height="192px"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcranney&amp&langs_count=10&amp&title_color=0891b2&amp&text_color=ffffff&amp&icon_color=0891b2&amp&bg_color=1c1917&amp&hide_border=true&amp&locale=en&amp&custom_title=Top%20%Languages&theme=algolia" alt="sageeth-mandil" height="192px"/> -->
 <br/>
-<p align="center"><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sageeth-mandil&layout=compact&theme=algolia" alt="sageeth-mandil" /></a></p>
-<br/>
+<p align="center"><a href="https://github.com/sageeth-mandil/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sageeth-mandil&theme=discord" alt="sageeth-mandil" /></a></p>
 
+
+<br/>
 <p align="center">
   <a href="https://github.com/sageeth-mandil">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sageeth-mandil&theme=radical" alt="Sageeth Mandil's GitHub Contribution"/>
   </a>
 </p>
-
 <br/>
 
-[![Sageeth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sageeth-Mandil&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Sageeth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sageeth-mandil&theme=react-dark)](https://github.com/sageeth-mandil/github-readme-activity-graph)
 <br/>
 <br/>
 
@@ -145,9 +139,9 @@
 <p align="left">
   <a href="https://github.com/sageeth-mandil?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
+<br/>
+<br/>
 
-<br/>
-<br/>
 
 ## Top Contributions -
 [![Flask](https://github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false)](https://github.com/pallets/flask)
