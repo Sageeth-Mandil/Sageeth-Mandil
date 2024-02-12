@@ -1,4 +1,10 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
 <p align="center" ><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20👋,%20I'm%20Sageeth%20Mandil&section=header"/></p>
+<!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 <h3 align="center">A passionate frontend developer and backend developer from Sri Lanka</h3>
 
 <br>
@@ -13,20 +19,12 @@
     tect-align:center" 
     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
     alt="coding-gif"/>
-</p>
+</p><br/>
+<!--   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a> -->
 
-<br>
-<br>
-<br>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--      Contact Me :
-<a href="https://codepen.io/sageeth-mandil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sageeth-mandil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sageeth mandil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sageeth mandil" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sageeth-mandil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sageeth-mandil" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/sageethmandil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="sageethmandil" height="30" width="40" /></a>  
-</p> -->
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
@@ -98,7 +96,7 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
   &emsp;
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> 
-  &emsp;
+
 </p>
 
 
@@ -208,3 +206,7 @@
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=green&size=40&center=true&vCenter=true&width=600&height=50&lines=Thanks+For+Visiting+My+Page;"></a></p>
 
 <br/>
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
