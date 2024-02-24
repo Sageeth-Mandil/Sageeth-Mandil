@@ -24,15 +24,15 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages :</h3>
 <p align="left"> 
-  <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <!-- <img align="left" alt="Java" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <br/>
+  <br/> -->
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -45,7 +45,7 @@
 </p><br/>
 
 
-<h3 align="left">FrameWorks:</h3>
+<h3 align="left">Frameworks  |  Libraries :</h3>
 <p align="left">
   
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -55,7 +55,7 @@
 </p><br/>
 
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">⚙ Tools :</h3>
 <p align="left">
 
   ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -96,13 +96,9 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sageeth-mandil&theme=algolia" alt="sageeth-mandil" /></p>
-<br/>
 <p align="center"><a href="https://github.com/sageeth-mandil/github-readme-stats"><img alt="sageeth mandil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sageeth-mandil&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/><br/> &nbsp;
-<!--  Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sageeth-mandil&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sageeth-mandil" height="192px"/> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcranney&amp&langs_count=10&amp&title_color=0891b2&amp&text_color=ffffff&amp&icon_color=0891b2&amp&bg_color=1c1917&amp&hide_border=true&amp&locale=en&amp&custom_title=Top%20%Languages&theme=algolia" alt="sageeth-mandil" height="192px"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sageeth-mandil&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="sageeth-mandil" height="192px"/>
 <br/>
 <p align="center"><a href="https://github.com/sageeth-mandil/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sageeth-mandil&theme=discord" alt="sageeth-mandil" /></a></p>
 
@@ -120,46 +116,12 @@
 <br/>
 <br/>
 
-
-## Top Open Source -
-[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=sageeth-mandil&repo=library-management-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sageeth-mandil/library-management-system)
-[![Python Project](https://github-readme-stats.vercel.app/api/pin/?username=sageeth-mandil&repo=python-beginner-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Sageeth-Mandil/python-beginner-projects)
-[![Material UI](https://github-readme-stats.vercel.app/api/pin/?username=sageeth-mandil&repo=material-ui&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sageeth-mandil/material-ui)
-[![SageethMandil Readme](https://github-readme-stats.vercel.app/api/pin/?username=sageeth-mandil&repo=sageeth-mandil&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sageeth-Mandil/sageeth-mandil)
-<p align="left">
-  <a href="https://github.com/sageeth-mandil?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-<br/>
-<br/>
-
-
-## Top Contributions -
-[![Flask](https://github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false)](https://github.com/pallets/flask)
-[![Discord](https://github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false)](https://github.com/Rapptz/discord.py)
-[![OneFetch](https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false)](https://github.com/o2sh/onefetch)
-[![NextCord](https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false)](https://github.com/nextcord/nextcord)
-[![AutoFlake](https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=PyCQA&repo=autoflake&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false)](https://github.com/PyCQA/autoflake)
-[![Shields](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false)](https://github.com/badges/shields)
-[![SimpleIcons](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false)](https://github.com/simple-icons/simple-icons)
-[![Babel](https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=python-babel&repo=babel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false)](https://github.com/python-babel/babel)
-<p align="left">
-    <a href="https://github.com/sageeth-mandil/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
-</p>
-
-<br/>
 <br/>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 
 
 <p align="center"> <a href="https://twitter.com/sageeth-mandil" target="blank"><img src="https://img.shields.io/twitter/follow/sageeth-mandil?logo=twitter&style=for-the-badge" alt="sageeth-mandil" /></a></p>
-
-<!--<p align='center'>
-  <a href="https://github.com/sponsors/sageeth-mandil"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/></a>&nbsp;&nbsp;
-  <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sageeth-mandil/Badges4-README.md-Profile?style=for-the-badge"></a>&nbsp;&nbsp;
-  <a><img src="https://komarev.com/ghpvc/?username=sageeth-mandil&label=Profile%20views&color=0e75b6&style=flat" alt="sageeth-mandil"/></a>
-</p>-->
-
 
 <!-- Social icons section -->
 <p align="center">
