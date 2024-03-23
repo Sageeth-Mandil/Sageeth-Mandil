@@ -4,7 +4,12 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
 <p align="center" ><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20👋,%20I'm%20Sageeth%20Mandil&section=header"/></p>
-<h3 align="center">A passionate frontend developer and backend developer from Sri Lanka</h3>
+<h4 align="left">A passionate frontend developer and backend developer from Sri Lanka</h4>
+
+- aged: 13 years 
+- school: lyceum
+- grade: 8
+- address: sageethmandil2010@gmail.com
 
 <br>
 <br>
