@@ -6,10 +6,10 @@
 <p align="center" ><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20👋,%20I'm%20Sageeth%20Mandil&section=header"/></p>
 <h4 align="left">A passionate frontend developer and backend developer from Sri Lanka</h4>
 
-- aged: 13 years 
+- aged: 14 years 
 - school: lyceum
-- grade: 8
-- address: sageethmandil2010@gmail.com
+- grade: 9
+- email: sageethmandil2010@gmail.com
 
 <br>
 <br>
